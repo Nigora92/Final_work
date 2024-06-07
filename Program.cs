@@ -57,3 +57,20 @@ Console.Write("→ ");
 PrintArray(newArray);
 
 
+// Функция: Вывод команд для работы с программой
+void Commands()
+{
+    Console.WriteLine();
+    Console.WriteLine("СПИСОК КОМАНД:");
+    Console.WriteLine("1 – использовать массив: [“Hello”, “2”, “world”, “:-)”]");
+    Console.WriteLine("2 – использовать массив: [“1234”, “1567”, “-2”, “computer science”]");
+    Console.WriteLine("3 – использовать массив: [“Russia”, “Denmark”, “Kazan”]");
+    Console.WriteLine();
+}
+
+// Функция ввода
+string ReadInput(string msg)
+{
+    Console.Write(msg);
+    return Console.ReadLine();
+}
