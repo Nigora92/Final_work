@@ -15,3 +15,6 @@
 [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
+
+1. Блок-схема алгоритма
+   ![итоговая работа](https://github.com/Nigora92/Final_work/assets/148757225/af7eceb1-840f-46be-9cc4-e06b5028377d)
